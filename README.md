@@ -5,10 +5,8 @@ This repository contains a basic keylogger implemented in Python using the keybo
 <br>
 
 **Important:-**
-<br>
--Use this keylogger responsibly and ethically. 
--Obtain explicit consent from any user whose keystrokes you intend to log. 
--Unauthorized use is illegal and unethical.
-<br>
--It's important to note that creating and using keyloggers can be illegal in some jurisdictions and can be considered a violation of privacy. 
--This code is intended for educational purposes only.
+- Use this keylogger responsibly and ethically. 
+- Obtain explicit consent from any user whose keystrokes you intend to log. 
+- Unauthorized use is illegal and unethical.
+- It's important to note that creating and using keyloggers can be illegal in some jurisdictions and can be considered a violation of privacy. 
+- This code is intended for educational purposes only.
