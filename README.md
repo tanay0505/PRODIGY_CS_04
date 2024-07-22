@@ -4,7 +4,7 @@ This repository contains a basic keylogger implemented in Python using the keybo
 
 <br>
 
-Important:-
+**Important:-**
 <br>
 Use this keylogger responsibly and ethically. Obtain explicit consent from any user whose keystrokes you intend to log. Unauthorized use is illegal and unethical.
 <br>
